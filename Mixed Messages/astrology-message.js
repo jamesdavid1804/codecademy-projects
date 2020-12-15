@@ -45,4 +45,10 @@ const outcomes = [
     'fulfillment'
 ];
 
+console.log('')
+console.log('** Astrological Message of The Day **')
+console.log('')
 console.log(`${random_astro_sign(astro_signs)}: The stars show that today you will experience ${random_outcome(outcomes)} in your ${random_life_area(life_area)}.`);
+console.log('')
+console.log('** Let the stars guide you **')
+console.log('')
