@@ -9,7 +9,7 @@
 ## Desciption
 
 _This is a CodeCademy portfolio project which serves the purpose of becoming familiar with JavaScript syntax._
-When run the script will output a horoscope for the day for a random astrological sign, life are and outcome.
+When the script is run it will output a horoscope for the day for a random astrological sign, life are and outcome.
 
 ## Technology
 
